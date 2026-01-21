@@ -64,14 +64,14 @@
 *(More coming soon…)*
 
 ---
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&langs_count=8&layout=normal&theme=dark&title_color=39C5FF&text_color=9BE7C4&icon_color=39C5FF&bg_color=0D1117)
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Saira-Ahmed&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
+  <img src="./streak.svg" height="165" alt="GitHub streak"/>
 </p>
-
 ---
 
 ## 🌐 Connect With Me  
