@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="160" viewBox="0 0 720 160" role="img" aria-label="GitHub streak card">
+  <defs>
+    <style>
+      .bg{fill:#0D1117}
+      .card{fill:#071224;stroke:#0f172a;stroke-width:1;rx:12}
+      .title{font:700 18px/1.1 'Segoe UI', Roboto, Arial;fill:#39C5FF}
+      .label{font:600 12px/1.1 'Segoe UI', Roboto, Arial;fill:#9BE7C4}
+      .value{font:700 28px/1.1 'Segoe UI', Roboto, Arial;fill:#ffffff}
+      .muted{font:400 11px/1.1 'Segoe UI', Roboto, Arial;fill:#94a3b8}
+      .pill{fill:#06202a;rx:8}
+      .small{font:400 11px/1.1 'Segoe UI', Roboto, Arial;fill:#9be7c4}
+    </style>
+  </defs>
+
+  <rect width="720" height="160" class="bg" rx="12"/>
+
+  <g transform="translate(20,16)">
+    <rect x="0" y="0" width="680" height="128" class="card" rx="12"/>
+    <text x="20" y="30" class="title">GitHub Streak — @Saira-Ahmed</text>
+    <text x="20" y="48" class="muted">Updated: 2026-01-21 00:00 UTC</text>
+
+    <!-- Current streak -->
+    <g transform="translate(24,62)">
+      <rect width="240" height="50" class="pill" />
+      <text x="16" y="20" class="label">Current Streak</text>
+      <text x="16" y="42" class="value" id="current">—d</text>
+    </g>
+
+    <!-- Longest streak -->
+    <g transform="translate(288,62)">
+      <rect width="240" height="50" class="pill" />
+      <text x="16" y="20" class="label">Longest Streak</text>
+      <text x="16" y="42" class="value" id="longest">—d</text>
+    </g>
+
+    <!-- Small stats on the right -->
+    <g transform="translate(552,62)">
+      <rect width="128" height="50" class="pill" />
+      <text x="16" y="20" class="label">Active Days (365d)</text>
+      <text x="16" y="42" class="value" id="total">—</text>
+    </g>
+
+    <text x="20" y="126" class="muted">Tip: this file is updated automatically by a GitHub Action (GraphQL)</text>
+  </g>
+</svg>
