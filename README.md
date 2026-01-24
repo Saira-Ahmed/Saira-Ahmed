@@ -54,23 +54,46 @@
 
 ---
 
-## 🚀 Projects  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&langs_count=8&layout=normal&theme=dark&title_color=39C5FF&text_color=9BE7C4&icon_color=39C5FF&bg_color=0D1117)
 
-- 🎬 **Movie Review Application** – REST API based backend  
-- 🧩 **3D Object Reconstruction from 2D Images** (AI + CV Project)  
-- ✈️ **Flight Data Management using Sparse Matrices (C++)**  
-- 🐞 **Bug Tracking Systems (Jira & Monday.com)**  
+## 🚀 Projects
 
+- [Price-Comparison-Tool](https://github.com/Saira-Ahmed/Price-Comparison-Tool) — C++  
+  A tool for comparing product prices (C++ implementation).
+
+- [NovelBank](https://github.com/Saira-Ahmed/NovelBank) — Assembly (MASM x86) 
+  Novel Bank Management System implemented in MASM x86.
+
+- [NutriTrack](https://github.com/Saira-Ahmed/NutriTrack) — Java  
+  Nutrition tracking app / backend built in Java.
+
+- [Echo-Client-Application](https://github.com/Saira-Ahmed/Echo-Client-Application) — Java 
+  Simple echo client demonstrating basic networking.
+
+- [Group-Chat-Application](https://github.com/Saira-Ahmed/Group-Chat-Application) — Java  
+  Multi-user chat application showcasing concurrency and sockets.
+
+- [Socket-Programming](https://github.com/Saira-Ahmed/Socket-Programming) — Java   
+  Socket programming examples and mini projects.
+
+- [TicTacToe-game](https://github.com/Saira-Ahmed/TicTacToe-game) — Java 
+  Classic Tic-Tac-Toe game implementation.
+
+- [AttendanceManagementSystem](https://github.com/Saira-Ahmed/AttendanceManagementSystem)   
+  Attendance management system for tracking student/employee presence.
+  
 *(More coming soon…)*
 
 ---
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&langs_count=8&layout=normal&theme=dark&title_color=39C5FF&text_color=9BE7C4&icon_color=39C5FF&bg_color=0D1117)
 
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saira-Ahmed&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-  <img src="./streak.svg" height="165" alt="GitHub streak"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Saira-Ahmed?style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Saira-Ahmed&color=9BE7C4" alt="Profile views"/>
 </p>
 ---
 
