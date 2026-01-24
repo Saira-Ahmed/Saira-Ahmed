@@ -54,6 +54,20 @@
 
 ---
 
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saira-Ahmed&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/Saira-Ahmed?style=social" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Saira-Ahmed&color=9BE7C4" alt="Profile views"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Saira-Ahmed&bg_color=00000000&color=10B981&line=8B5CF6&point=8B5CF6&hide_border=true" alt="activity graph" style="max-width:100%;"/>
+</p>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saira-Ahmed&langs_count=8&layout=normal&theme=dark&title_color=39C5FF&text_color=9BE7C4&icon_color=39C5FF&bg_color=0D1117)
 
 ## 🚀 Projects
@@ -86,16 +100,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saira-Ahmed&show_icons=true&theme=tokyonight" height="165" alt="GitHub stats"/>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Saira-Ahmed?style=social" alt="Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=Saira-Ahmed&color=9BE7C4" alt="Profile views"/>
-</p>
----
 
 ## 🌐 Connect With Me  
 
