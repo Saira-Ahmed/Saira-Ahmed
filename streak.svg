@@ -23,23 +23,23 @@
     <g transform="translate(24,62)">
       <rect width="240" height="50" class="pill" />
       <text x="16" y="20" class="label">Current Streak</text>
-      <text x="16" y="42" class="value" id="current">—d</text>
+      <text x="16" y="42" class="value" id="current">0d</text>
     </g>
 
     <!-- Longest streak -->
     <g transform="translate(288,62)">
       <rect width="240" height="50" class="pill" />
       <text x="16" y="20" class="label">Longest Streak</text>
-      <text x="16" y="42" class="value" id="longest">—d</text>
+      <text x="16" y="42" class="value" id="longest">0d</text>
     </g>
 
     <!-- Small stats on the right -->
     <g transform="translate(552,62)">
       <rect width="128" height="50" class="pill" />
       <text x="16" y="20" class="label">Active Days (365d)</text>
-      <text x="16" y="42" class="value" id="total">—</text>
+      <text x="16" y="42" class="value" id="total">0</text>
     </g>
 
-    <text x="20" y="126" class="muted">Tip: this file is updated automatically by a GitHub Action (GraphQL)</text>
+    <text x="20" y="126" class="muted">Note: the Action will replace this with live numbers once it runs successfully</text>
   </g>
 </svg>
