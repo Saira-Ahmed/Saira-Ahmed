@@ -48,9 +48,9 @@
 ## 📚 What I'm Learning Right Now  
 
 - 🔹 REST APIs & Backend Architecture  
-- 🔹 Data Structures & Algorithms  
+- 🔹 Full Stack Development  
 - 🔹 Database Design  
-- 🔹 Software Engineering Practices  
+- 🔹 DevOps  
 
 ---
 
@@ -96,8 +96,6 @@
 - [AttendanceManagementSystem](https://github.com/Saira-Ahmed/AttendanceManagementSystem)   
   Attendance management system for tracking student/employee presence.
   
-*(More coming soon…)*
-
 ---
 
 
