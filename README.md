@@ -48,9 +48,9 @@
 ## 📚 What I'm Learning Right Now  
 
 - 🔹 REST APIs & Backend Architecture  
-- 🔹 Data Structures & Algorithms  
+- 🔹 Full Stack Development  
 - 🔹 Database Design  
-- 🔹 Software Engineering Practices  
+- 🔹 DevOps  
 
 ---
 
