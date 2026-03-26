@@ -49,7 +49,7 @@
 
 - 🔹 REST APIs & Backend Architecture  
 - 🔹 Full Stack Development  
-- 🔹 Database Design  
+- 🔹 Database and Schema Design  
 - 🔹 DevOps  
 
 ---
@@ -96,7 +96,6 @@
 - [AttendanceManagementSystem](https://github.com/Saira-Ahmed/AttendanceManagementSystem)   
   Attendance management system for tracking student/employee presence.
   
-*(More coming soon…)*
 
 ---
 
